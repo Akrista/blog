@@ -1,5 +1,0 @@
-format: jb-book
-root: README.md
-title: Home
-chapters:
-  - file: articles/README.md

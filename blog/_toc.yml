@@ -1,0 +1,32 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: readme
+parts:
+  - caption: Programming
+    chapters:
+      # - file: docker/readme
+      #   sections:
+      #     - file: docker/1.0-Introduction/readme
+      # - file: sql/readme
+      - file: php/readme
+        sections:
+          - file: php/notebooks/pintconsolecommand
+      # - file: python/readme
+      # - file: rust/readme
+      # - file: markdown/readme
+      # - file: javascript/readme
+      # - file: html/readme
+      # - file: css/readme
+  # - caption: Data Science
+  #   chapters:
+  # - caption: Gaming
+  #   chapters:
+  # - caption: Projects
+  #   chapters:
+  # - caption: Professional Development
+  #   chapters:
+  # - caption: About Me
+  #   chapters:
+  #     - file: about/readme
